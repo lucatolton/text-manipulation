@@ -1,0 +1,14 @@
+{
+    "name": "@lucatolton/text-manipulation",
+    "version": "1.0.0",
+    "description": "Change the way that text looks with a simple NPM package",
+    "license": "MIT",
+    "repository": "lucatolton/text-manipulation",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "minify",
+        "small",
+        "remove-spaces"
+    ]
+}
