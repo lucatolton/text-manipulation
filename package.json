@@ -1,6 +1,6 @@
 {
     "name": "@lucatolton/text-manipulation",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Change the way that text looks with a simple NPM package",
     "license": "MIT",
     "repository": "lucatolton/text-manipulation",
