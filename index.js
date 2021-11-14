@@ -1,5 +1,5 @@
 module.exports = {
-    tiny: function(string) {
+    minify: function(string) {
         if (typeof string !== "string") throw new TypeError('string expected');
         return string.replace(/\s/g, '');
     },
